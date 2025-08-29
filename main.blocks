@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="w~%jZI86#nlWJ_ius5As" x="225" y="20"><statement name="HANDLER"><block type="device_plot_bar_graph" id="cXIZd*IQB}LjS}u-Np9X"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="value"><shadow type="math_number" id="ol5ZC`NM#v/EXjhFAqxV"><field name="NUM">0</field></shadow><block type="device_get_analog_pin" id="$v3?|n7Cq{7uhqJ!$hb."><value name="name"><shadow type="analog_read_write_pin_shadow" id="+$PWr=3Zc4sv76RI43I0"><field name="pin">AnalogPin.P0</field></shadow></value></block></value><value name="high"><shadow type="math_number" id="10[IMwM.@Cb:%uwdmLNj"><field name="NUM">1023</field></shadow></value><value name="valueToConsole"><shadow type="toggleOnOff" id="19d_tjk2rSSibsu(Yh?,"><field name="on">true</field></shadow></value></block></statement></block></xml>
